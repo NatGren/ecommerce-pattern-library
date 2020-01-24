@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #6AECD4;
+  --color-secondary: #a41e3d;
+  --color-accent: #879894;
+  --color-background: #FFF;
+
+  --font-primary: 'Bebas Neue', cursive;
+  --font-secondary: 'Roboto Condensed', sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
