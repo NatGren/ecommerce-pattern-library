@@ -2,4 +2,4 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
-  font_url: "https://fonts.googleapis.com/css?family=Bebas+Neue|Roboto+Condensed:400,700&display=swap"
+  font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700&display=swap"
