@@ -15,11 +15,12 @@
 }
 
 .btn-ghost:hover {
+  background-color: transparent;
   color: var(--color-accent);
 }
 
 .btn-light {
   background-color: var(--color-background);
-  border-color: var(--color-background);
+  border-color: var(--color-accent);
   color: var(--color-accent);
 }
