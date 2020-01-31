@@ -5,7 +5,7 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700&display=swap"
   colors:
     background: "--color-background"
-    accent: "--color-accent"
+    accent: "--color-secondary"
     patterns:
       brand.logo: "--color-secondary"
   rationales:
