@@ -4,8 +4,8 @@ theme: jekyll_patternbot
 patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700&display=swap"
   colors:
-    background: "--color-secondary"
-    accent: "--color-primary"
+    background: "--color-background"
+    accent: "--color-secondary"
     patterns:
       brand.logo: "--color-primary"
   rationales:
