@@ -10,6 +10,7 @@ patternbot:
     accent: "--color-secondary"
     patterns:
       brand.logos: "--color-secondary"
+      icons.icons: "--color-accent"
   rationales:
     typefaces.primary: |
       Roboto Condensed was selected because of its simplified and modern look for headers. Are users want an efficent and clear experience when navigation our cite, Roboto offer's that experience.
