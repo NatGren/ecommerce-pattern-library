@@ -5,9 +5,9 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700&display=swap"
   colors:
     background: "--color-background"
-    accent: "--color-secondary"
+    accent: "--color-accent"
     patterns:
-      brand.logo: "--color-primary"
+      brand.logo: "--color-secondary"
   rationales:
     typefaces.primary: |
       Roboto Condensed was selected because of its simplified and modern look for headers. Are users want an efficent and clear experience when navigation our cite, Roboto offer's that experience.
