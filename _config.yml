@@ -3,3 +3,17 @@ theme: jekyll_patternbot
 
 patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700&display=swap"
+  colors:
+    background: "--color-secondary"
+    accent: "--color-primary"
+    patterns:
+      brand.logo: "--color-primary"
+  rationales:
+    typefaces.primary: |
+      Roboto Condensed was selected because of its simplified and modern look for headers. Are users want an efficent and clear experience when navigation our cite, Roboto offer's that experience.
+    typefaces.secondary: |
+      Oswald was selcted as it is a clear and easily readable font perfect for our body copy and smaller headers. People are on our cite to find shoes, Oswals allows the users to quickly read through information without any issue.
+    colors.primary: |
+      The primary color represents excitment and eagerness. This color will be used for large headers and some highlights, perfect for gett useres in the shopping mood.
+    colors.secondary: |
+      The secondary color is too sort of tame the primary color, its more relaxing and easy on the eyes. This color will be used for smaller headers and highlights to keep are users a focused energy.
