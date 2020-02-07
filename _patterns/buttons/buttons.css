@@ -24,3 +24,9 @@
   border-color: var(--color-accent);
   color: var(--color-accent);
 }
+
+.btn-size {
+  background-color: var(--color-background);
+  border-color: var(--color-accent);
+  color: var(--color-secondary);
+}
