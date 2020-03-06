@@ -1,0 +1,21 @@
+title: "Banner"
+description: |
+  Banners should be used to bring attention to a call-to-action.
+
+patterns:
+  basic-banner:
+    title: "Banner"
+    description: |
+      This banner is perfect for a simple and sleek design.
+    fields:
+      - name: heading
+        type: string
+        example: "Featured"
+
+      - name: text
+        type: string
+        example: "Check out our brand new line of LEFT shoes!"
+
+      - name: banner-img
+        type: string
+        example: "nike-1.jpg"

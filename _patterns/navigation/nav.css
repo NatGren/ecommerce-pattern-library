@@ -1,0 +1,14 @@
+.top {
+  background-color: var(--color-primary);
+  border-color: var(--color-secondary);
+  color: var(--color-background);
+}
+
+.top:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+.page:hover {
+  color: var(--color-secondary);
+}

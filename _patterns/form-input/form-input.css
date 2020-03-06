@@ -1,0 +1,18 @@
+.input-field {
+  max-width: 30%;
+  background-color: var(--color-background);
+  border-color: var(--color-background);
+  color: var(--color-secondary);
+}
+
+.input-fields {
+  max-width: 30%;
+}
+
+.label-field {
+  color: #fff;
+}
+
+.label-fields {
+  color: var(--color-secondary);
+}

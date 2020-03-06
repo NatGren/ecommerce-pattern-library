@@ -1,0 +1,13 @@
+title: "Section"
+description: |
+  Section tag defines the section of documents such as chapters, headers, footers or any other sections.
+patterns:
+  text:
+    title: "About Section"
+    description: |
+      This text section is styled white with my primary colour as the background.
+    background: "--color-primary"
+  text-basic:
+    title: "Specs Section"
+    description: |
+      This text section is left as default and basic.

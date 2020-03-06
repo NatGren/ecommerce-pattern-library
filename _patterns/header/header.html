@@ -1,0 +1,21 @@
+<header class="header-nav">
+  <div class="topnav grid" id="myTopnav">
+
+    <div class="unit xs-1 s-1 m-1-3 l-1-3 list-group pad-t-1-4">
+      <a class="title-bro zetta"href="/index/">LEFT</a>
+    </div>
+
+      <nav class="unit xs-1 s-1 m-2-3 l-2-3 list-group text-right pad-t">
+          <a class="gutter-1-4 yo nav-item {% if page.highlight_nav == 'profile' %}current{% endif %}" href="#">My Profile</a>
+          <a class="gutter-1-4 yo nav-item {% if page.highlight_nav == 'shop' %}current{% endif %}"href="/products/">Shop</a>
+          <a class="gutter-1-4 yo nav-item {% if page.highlight_nav == 'cart' %}current{% endif %}"href="#">Cart</a>
+          <a class="gutter-1-4 yo nav-item {% if page.highlight_nav == 'log-in' %}current{% endif %}"href="#">Log In</a>
+
+        <button class="nav-icon icon">
+          <i class="fa fa-bars"></i>
+          <svg><use xlink:href="/images/icons.svg#mail-b"></use><svg>
+        </button>
+      </nav>
+
+	</div>
+</header>

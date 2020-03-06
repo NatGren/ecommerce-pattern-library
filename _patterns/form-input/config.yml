@@ -1,0 +1,40 @@
+title: "Forms"
+description: |
+
+
+patterns:
+  text-input:
+    title: Default
+    description: |
+      This input is perfect for default text inputs such as peoples names and adresses.
+    background: "--color-primary"
+  number:
+    title: Numbers
+    description: |
+      This input is pefect for selecting a specific number of an item you'd like to purchase.
+    background: "--color-primary"
+  email:
+    title: Email
+    description: |
+      This input is perfect for filling in your email.
+    background: "--color-primary"
+  tel:
+    title: Phone number
+    description: |
+      This input is perfect for filling in your phone number.
+    background: "--color-primary"
+  password:
+    title: Password
+    description: |
+      This input is perfect for entering your password.
+    background: "--color-primary"
+  date:
+    title: Date
+    description: |
+      This input is perfect for finding out if the user is old enough to continue through the browser.
+    background: "--color-primary"
+  checkbox:
+    title: Checkbox
+    description: |
+      This input is perfect for using a checklist system.
+    background: "--color-primary"

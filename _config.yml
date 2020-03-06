@@ -20,3 +20,7 @@ patternbot:
       The primary color represents excitment and eagerness. This color will be used for large headers and some highlights, perfect for gett useres in the shopping mood.
     colors.secondary: |
       The secondary color is too sort of tame the primary color, its more relaxing and easy on the eyes. This color will be used for smaller headers and highlights to keep are users a focused energy.
+
+  layouts:
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header and footer.

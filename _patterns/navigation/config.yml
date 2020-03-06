@@ -1,0 +1,14 @@
+title: "Navigation"
+description: |
+  Secondary navigation is for content that is of secondary interest to the user.
+
+patterns:
+  scroll-top:
+    title: "Back to top"
+    description: |
+      This navigation option is a perfect way to bring you back to the top of the page immediately instead of manually scrolling all the way back up.
+    background: "--color-secondary"
+  multiple-page:
+    title: "Prev/Next"
+    description: |
+      These navigation option are the perfect way to easily navigate your way through the products list instead of infinitely scrolling down the page.

@@ -1,0 +1,8 @@
+title: "Header"
+description: |
+    A header is an area at the top of a document page that the web page logo and the navigation.
+patterns:
+  header:
+    title: "Header"
+    description: |
+      This header is a perfect example of a simple yet effective header for any website.

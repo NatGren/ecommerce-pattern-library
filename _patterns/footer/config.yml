@@ -1,0 +1,8 @@
+title: "Footer"
+description: |
+    A footer is an area at the bottom of a document page that contains data common to other pages. The information in footers may include page numbers, creation dates, copyrights, or references that can appear on a single page, or on all pages.
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      This footer is a perfect example of a simple yet effective footer for any website.

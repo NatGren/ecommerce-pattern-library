@@ -72,3 +72,7 @@ a {
   font-style: normal;
   text-decoration: none;
 }
+
+header {
+  background-color: var(--color-primary);
+}

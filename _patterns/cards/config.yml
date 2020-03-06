@@ -1,0 +1,15 @@
+title: "Cards"
+description: |
+  A card is a small rectangular module with images and text. It is an entry point for users to learn more details. To balance the aesthetics and usability of the interface, card UI design is basically a default choice. Because cards are easy to use, they can also display content that contains different elements.
+
+patterns:
+  shoe:
+    title: "Basic"
+    description: |
+      This basic grouping, is your default card layout. This type of card is a great way to show off an image with a discription with a call-to-action to follow it up.
+    width: 500
+  site-cards:
+    title: "Interactive"
+    description: |
+      These type of cards are a great way for people to directly press on pruducts. This type of card is a mix of a regular card and a call-to-action all in one.
+    width: 300
